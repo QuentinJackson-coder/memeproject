@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    text-align: center;
+
+
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+}
+
+img {
+    border: white solid;
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: white;
+
+
+}
+
+p {
+    color: white;
+}
